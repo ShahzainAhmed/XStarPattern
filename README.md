@@ -1,1 +1,1 @@
-# X-Star Patt
+# X Star Pattern in Java Program.
